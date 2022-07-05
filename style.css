@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#skip {
+    color: rgb(65, 195, 238);
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(144, 196, 238), rgb(109, 118, 241));
+    border-radius: 20px;
+    padding: 10px 40px;
+    font-weight: 700;
+    color: white;
+    padding-top: 5px;
+}
+
+.heading {
+    color: gray;
+}
+
+.flexible {
+    display: flex;
+}
+
+.half1 {
+    width: 50%;
+    padding-left: 5%;
+}
